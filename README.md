@@ -46,7 +46,7 @@ python main.py
 3. **Editing Expenses**:
    * Select an expense from the list, click "Edit Selected Expense", modify the details, and click "Save Changes".
 
-    ![edit](https://github.com/user-attachments/assets/e5f42dcc-70c8-4ceb-8a1f-aac9245e568e)
+    ![edit](https://github.com/user-attachments/assets/4acb5055-39b4-4736-b3a4-15baeeb0175c)
 
 4. **Deleting Expenses**:
    * Select an expense, click "Delete Selected Expense" to remove it. You can also delete all expenses at once using the "Delete All Expenses" button.
