@@ -41,7 +41,7 @@ python main.py
 2. **Viewing Expenses**:
    * Click "View Expenses" to display a detailed list of recorded expenses.
 
-    ![view](https://github.com/user-attachments/assets/086428ba-4e7b-4d05-9724-368a5ac3af96)
+   ![view](https://github.com/user-attachments/assets/ae86a0bf-3b91-463f-83a1-bf33bf826c19)
 
 3. **Editing Expenses**:
    * Select an expense from the list, click "Edit Selected Expense", modify the details, and click "Save Changes".
@@ -54,9 +54,9 @@ python main.py
 5. **Visualizing Expenses**:
    * View a bar chart or line chart of total expenses by category or over time using the "Visualize Bar-graph" or "Visualize Line-graph" buttons.
 
-   ![bar](https://github.com/user-attachments/assets/3f579177-683b-4978-b390-cf454cd00408)
-   
-   ![line](https://github.com/user-attachments/assets/c8a42b7a-51d1-4467-9680-4eded2acf415)
+   ![bar](https://github.com/user-attachments/assets/73cf7dd5-6942-434d-9927-82cc05f42c3b)
+
+   ![line](https://github.com/user-attachments/assets/5da3743c-1e01-4fcf-a39b-54f8f628a951)
 
 7. **Exiting the Application**:
    * Click "Exit" to close the application.
