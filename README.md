@@ -37,7 +37,7 @@ python main.py
 ## Usage Instructions
 1. **Adding an expense**:
    * Enter the date, expense amount, category, and description in the provided form and click "Add Expense".
-   * 
+      
 2. **Viewing Expenses**:
    * Click "View Expenses" to display a detailed list of recorded expenses.
 
