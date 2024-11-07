@@ -363,7 +363,7 @@ class ExpenseTrackerApp:
 
     def create_tree_frame(self):
         self.tree_frame = Frame(self.root, bg=data_label_color)
-        self.tree_frame.place(x=0, y=0, height=370, width=830)
+        self.tree_frame.place(x=170, y=0, height=370, width=830)
 
         label = Label(self.tree_frame,text="EXPENSE TRACKER", font=('arial', 20, 'bold'),fg="black")
         label.pack(fill=BOTH)
