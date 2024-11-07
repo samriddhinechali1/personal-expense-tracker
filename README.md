@@ -1,5 +1,5 @@
 # Personal Expense Tracker
-![app](https://github.com/user-attachments/assets/56f78a2e-b86f-44a3-a176-477ef2dedc35)
+![app](https://github.com/user-attachments/assets/65f733f1-bfab-416b-86c8-432a9854aade)
 
 ## Project Overview
 This project is built using Python's Tkinetr library for GUI development, SQLite for database management and data visualization libraries like **Matplotlib** and **Seaborn** for graphical representation of expenses.The application is designed to be simple and lightweight, making it suitable for personal use or for small-scale expense tracking.
